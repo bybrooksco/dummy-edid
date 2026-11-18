@@ -61,3 +61,7 @@ EDID:
 - it rejects a mode whose pixel clock is too high
 - it refuses to replace slot 1
 - checksums stay valid, and only the target slot changes
+
+## License
+
+MIT, see `LICENSE`.
