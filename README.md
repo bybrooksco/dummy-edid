@@ -62,6 +62,10 @@ EDID:
 - it refuses to replace slot 1
 - checksums stay valid, and only the target slot changes
 
+## Credits
+
+Built by Brooks with [Claude](https://claude.com/claude-code) (Anthropic) as a coding partner; most commits are co-authored by Claude.
+
 ## License
 
 MIT, see `LICENSE`.
